@@ -1,5 +1,15 @@
 ### Hi there 👋
+[![gwanjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinkansan&count_private=true&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on ... (total 5 projects ongoing)
+  1. "Lightweight Action Recogntion and implementing AI Application on SBC using MEC" *️⃣
+  2. "Realsense Transport" *️⃣
+  3. "IR Model Optimization and Scheduling" *️⃣
+  4. ???
+  5. ??? 
+
+  *️⃣ means - available in repo
 <!--
 **shinkansan/shinkansan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
